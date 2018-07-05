@@ -8,4 +8,5 @@ open Atom -> click on Atom at the left side above -> Snippets -> a CSON file wil
 
 
 
-some of snippets credit to: MIT © Mauricio Ivan
+# some of snippets credit to:
+MIT © Mauricio Ivan
