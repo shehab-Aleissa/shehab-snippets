@@ -10,6 +10,7 @@ open Atom -> click on Atom at the left side above -> Snippets -> a CSON file wil
 
 open Atom -> click on Atom at the left side above -> Snippets -> a CSON file will open -> Paste all the code that you find in snippets folder in this repo.
 
+# Read every prefix in code to know the snippets you have!
 
-# Some of snippets credit to:
+# Some of snippets credit:
 MIT © Mauricio Ivan
