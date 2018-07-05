@@ -1,4 +1,4 @@
-# shehab-snippets
+# Shehab-snippets
 this will be an updated repo that contains multi snippets for different languages
 
 
@@ -8,5 +8,5 @@ open Atom -> click on Atom at the left side above -> Snippets -> a CSON file wil
 
 
 
-# some of snippets credit to:
+# Some of snippets credit to:
 MIT © Mauricio Ivan
