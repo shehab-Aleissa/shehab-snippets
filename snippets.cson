@@ -25,6 +25,8 @@
             'prefix': 'url'
             'body': "{% url '${1:URL NAME}' ${1:CONTEXTNAME}.id %}"
 
+
+    '.text.html.django':
         'character field':
             'prefix': 'mchar'
             'body': '${1:FIELDNAME} = models.CharField(max_length=$1)'
